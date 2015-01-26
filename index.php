@@ -12,6 +12,8 @@ and open the template in the editor.
     <body>
         <?php
             echo 'hello world';
+            
+            $arr = array('one' => 1, 'two' => 2);
         ?>
     </body>
 </html>
